@@ -1,0 +1,14 @@
+Gabriel Ramires- 42080681
+Lucas Iudi Corregliano Gallinari - 32138628
+
+
+Comandos:
+QUIT Finalizar o programa
+Hash() = iniciar jogo da Velha
+Poesia() = iniciar poesia do chat GPT
+Poesia_QUIT() = Sair da Poesia
+Username() = trocar nome do cliente
+Music_Player() = entrar no Music_Player
+Music_QUIT() = sair do Music_Player
+
+tomar cuidado com o diretório das músicas que serão puxadas
